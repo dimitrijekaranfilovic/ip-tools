@@ -1,2 +1,2 @@
 # IpTools
-Tool that enables calculations that involve ip addresses, written in python 3.
+Program written in python 3 that enables calculations that involve ip addresses.
